@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="122695" started-at="2022-06-27T10:28:27 IST" finished-at="2022-06-27T10:30:30 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="122695" started-at="2022-06-27T10:28:27 IST" finished-at="2022-06-27T10:30:30 IST">
+      <class name="CalTest.CalTest1">
+        <test-method status="PASS" signature="cap()[pri:0, instance:CalTest.CalTest1@4c762604]" name="cap" is-config="true" duration-ms="50509" started-at="2022-06-27T10:28:27 IST" finished-at="2022-06-27T10:29:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cap -->
+        <test-method status="PASS" signature="CalculatorTest1()[pri:0, instance:CalTest.CalTest1@4c762604]" name="CalculatorTest1" duration-ms="25409" started-at="2022-06-27T10:29:18 IST" finished-at="2022-06-27T10:29:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculatorTest1 -->
+        <test-method status="PASS" signature="CalculatorTest2()[pri:0, instance:CalTest.CalTest1@4c762604]" name="CalculatorTest2" duration-ms="15692" started-at="2022-06-27T10:29:43 IST" finished-at="2022-06-27T10:29:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculatorTest2 -->
+        <test-method status="PASS" signature="CalculatorTest3()[pri:0, instance:CalTest.CalTest1@4c762604]" name="CalculatorTest3" duration-ms="10393" started-at="2022-06-27T10:29:59 IST" finished-at="2022-06-27T10:30:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculatorTest3 -->
+        <test-method status="PASS" signature="CalculatorTest4()[pri:0, instance:CalTest.CalTest1@4c762604]" name="CalculatorTest4" duration-ms="10322" started-at="2022-06-27T10:30:09 IST" finished-at="2022-06-27T10:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculatorTest4 -->
+        <test-method status="PASS" signature="CalculatorTest5()[pri:0, instance:CalTest.CalTest1@4c762604]" name="CalculatorTest5" duration-ms="9971" started-at="2022-06-27T10:30:20 IST" finished-at="2022-06-27T10:30:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculatorTest5 -->
+        <test-method status="PASS" signature="AppClose()[pri:0, instance:CalTest.CalTest1@4c762604]" name="AppClose" is-config="true" duration-ms="319" started-at="2022-06-27T10:30:30 IST" finished-at="2022-06-27T10:30:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppClose -->
+      </class> <!-- CalTest.CalTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
